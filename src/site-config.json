@@ -1,0 +1,587 @@
+{
+  "business": {
+    "name": "Richie Garage Door Repair Grandview",
+    "phone": "+18164456728",
+    "category": "garage door repair",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Grandview's Garage Door Experts",
+      "heroSubline": "Reliable repairs, quality installations, and dedicated service. Protecting your home, one garage door at a time.",
+      "aboutTitle": "Decades of Dependable Garage Door Service",
+      "aboutText": [
+        "Richie Garage Door Repair Grandview started with a simple goal: provide honest, reliable garage door service to our neighbors in Kansas City. We've seen it all – from stubborn springs in Brookside to weather-beaten doors in Waldo. Our years of experience mean we get the job done right, the first time.",
+        "We believe in doing business the old-fashioned way: with integrity and a handshake. We assess every situation thoroughly, explain your options clearly, and never push unnecessary repairs. Our commitment is to providing lasting solutions at fair prices.",
+        "We're proud to be a part of the Kansas City community. We support local schools and organizations, and we treat every customer like a neighbor. When you choose Richie Garage Door Repair Grandview, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand garage door problems can't wait. We offer fast, reliable service to get your door back on track."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only durable, reliable parts from trusted brands to ensure lasting performance."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, honest estimates before any work begins."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call Richie Garage Door Repair Grandview today for fast, reliable service."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Fast, reliable spring replacement to get your garage door moving smoothly again.",
+        "description": "Garage door springs are under immense tension, making them dangerous to handle without the proper tools and expertise. Broken springs are a common issue in Kansas City, especially after harsh winters with freeze-thaw cycles that weaken the metal. Richie Garage Door Repair Grandview specializes in safely and efficiently replacing broken or worn-out garage door springs. Whether you have torsion springs or extension springs, our technicians have the knowledge and equipment to get the job done right. We use high-quality springs designed to withstand the demands of Kansas City's climate, ensuring long-lasting performance and reliability. Don't risk injury – let our professionals handle your garage door spring repair needs. We'll assess the situation, provide a clear explanation of the problem, and offer a fair price for the repair. We carry a full range of spring sizes to fit any door. We can efficiently diagnose and repair your garage door springs, preventing further damage to your door or opener. We also provide guidance on proper garage door maintenance to extend the life of your springs.",
+        "process": [
+          "Step 1: Safety First. Disconnect power and secure the door.",
+          "Step 2: Identify the Spring Type. Determine if torsion or extension springs are present.",
+          "Step 3: Remove the Broken Spring. Carefully release tension and detach the damaged spring.",
+          "Step 4: Install New Spring. Install a high-quality replacement spring with correct tension.",
+          "Step 5: Test and Adjust. Ensure the door operates smoothly and safely."
+        ],
+        "benefits": [
+          "Safe and reliable spring replacement",
+          "Extended lifespan of your garage door",
+          "Smooth and quiet door operation",
+          "Prevention of further damage to your garage door system"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a door that won't open or closes unevenly, or a visible gap in the spring."
+          },
+          {
+            "question": "Can I replace the garage door spring myself?",
+            "answer": "We strongly advise against it. Garage door springs are under high tension and can cause serious injury if handled improperly. It's best to call a professional."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of a garage door spring depends on usage and maintenance, but typically lasts between 5 and 10 years. Regular lubrication can help extend their lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repairing all major garage door opener brands for smooth, reliable operation.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience, especially during Kansas City's unpredictable weather. Whether it's a faulty remote, a broken motor, or a misaligned safety sensor, Richie Garage Door Repair Grandview can diagnose and repair any garage door opener issue. We service all major brands, including Chamberlain, LiftMaster, Genie, and Craftsman. Our experienced technicians understand the intricacies of garage door opener systems and can quickly identify the source of the problem. We carry a wide range of replacement parts to ensure a fast and efficient repair. We also offer expert advice on choosing the right garage door opener for your needs, whether you're looking for a quiet belt-drive opener or a powerful chain-drive model. We'll make sure your garage door opener is working safely and reliably, providing you with peace of mind. We will also check safety sensors and ensure they are correctly aligned and functioning. This is an important safety feature to prevent the door from closing on obstructions. We can also program remotes, keypads, and smartphone connectivity, offering you multiple ways to control your garage door.",
+        "process": [
+          "Step 1: Diagnose the Problem. Identify the cause of the opener malfunction.",
+          "Step 2: Disconnect Power. Ensure safety by disconnecting the power supply.",
+          "Step 3: Repair or Replace Parts. Fix or replace faulty components such as the motor, gears, or sensors.",
+          "Step 4: Test and Adjust. Verify proper operation and adjust settings as needed."
+        ],
+        "benefits": [
+          "Fast and reliable opener repair",
+          "Restored convenience and security",
+          "Prevention of further damage to your garage door",
+          "Expert advice on opener maintenance and upgrades"
+        ],
+        "faq": [
+          {
+            "question": "My garage door opener is making a grinding noise. What could be the problem?",
+            "answer": "This could indicate worn gears or a problem with the motor. It's best to have a professional inspect the opener."
+          },
+          {
+            "question": "My garage door opener won't close. What should I do?",
+            "answer": "Check the safety sensors to ensure they are aligned and free from obstructions. If the problem persists, call us for assistance."
+          },
+          {
+            "question": "How often should I lubricate my garage door opener?",
+            "answer": "We recommend lubricating the moving parts of your garage door opener at least twice a year to ensure smooth operation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert cable repair and replacement to ensure safe and smooth garage door operation.",
+        "description": "Garage door cables play a crucial role in lifting and lowering your garage door safely. If a cable breaks or becomes frayed, it can cause the door to become unbalanced or even collapse. Richie Garage Door Repair Grandview provides professional garage door cable repair and replacement services throughout Kansas City. We understand the importance of safety and reliability, and we use only high-quality cables that meet or exceed industry standards. Our technicians are experienced in handling all types of garage door cables and can quickly diagnose and repair any issue. We'll make sure your cables are properly tensioned and aligned, ensuring smooth and safe operation of your garage door. We also inspect the other components of your garage door system to identify any potential problems before they become major issues. Don't wait until a broken cable causes a serious accident – call Richie Garage Door Repair Grandview for fast and reliable cable repair services. We prioritize safety in cable repair, ensuring the door is properly supported before any work begins. We can replace damaged drums and pulleys to ensure smooth cable operation.",
+        "process": [
+          "Step 1: Secure the Door. Ensure the door is properly supported to prevent accidents.",
+          "Step 2: Remove the Damaged Cable. Carefully detach the broken or frayed cable.",
+          "Step 3: Install New Cable. Install a high-quality replacement cable with correct tension.",
+          "Step 4: Test and Adjust. Verify proper operation and adjust settings as needed."
+        ],
+        "benefits": [
+          "Safe and reliable cable repair",
+          "Smooth and balanced door operation",
+          "Prevention of accidents and injuries",
+          "Extended lifespan of your garage door system"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Garage door cables can break due to wear and tear, corrosion, or sudden impact. Regular maintenance can help extend their lifespan."
+          },
+          {
+            "question": "Can I replace a garage door cable myself?",
+            "answer": "Replacing garage door cables can be dangerous due to the high tension involved. We recommend hiring a professional for this task."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "We recommend inspecting your garage door cables at least twice a year for signs of wear and tear."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replace damaged or dented garage door panels to restore the look and function of your door.",
+        "description": "Dents, cracks, and other damage to your garage door panels can detract from the curb appeal of your home and compromise its security. Richie Garage Door Repair Grandview offers professional garage door panel replacement services throughout Kansas City. We can replace individual panels or entire sections of your garage door, restoring its beauty and functionality. We work with all types of garage doors, including steel, wood, and aluminum. Our experienced technicians will carefully remove the damaged panels and install new ones that match the style and color of your existing door. We use only high-quality replacement panels that are designed to withstand the elements and provide long-lasting performance. We also offer expert advice on choosing the right panels for your needs and budget. We ensure the new panels are properly aligned and sealed to prevent water damage and maintain energy efficiency. We can also source custom panels if needed, to match unique garage door designs.",
+        "process": [
+          "Step 1: Assess the Damage. Determine the extent of the panel damage.",
+          "Step 2: Remove Damaged Panel. Carefully detach the damaged panel from the door.",
+          "Step 3: Install New Panel. Install a matching replacement panel securely.",
+          "Step 4: Test and Adjust. Verify proper alignment and smooth operation."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Restored security and functionality",
+          "Prevention of further damage to your garage door",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel of my garage door?",
+            "answer": "Yes, in many cases, we can replace individual panels. However, it's important to find a matching panel that fits your door's style and color."
+          },
+          {
+            "question": "How much does it cost to replace a garage door panel?",
+            "answer": "The cost varies depending on the type of panel, the size of the door, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Will the new panel match my existing garage door?",
+            "answer": "We will do our best to find a matching panel. If an exact match is not available, we can recommend options that complement your existing door."
+          }
+        ]
+      },
+      {
+        "slug": "off-track-garage-door-repair",
+        "name": "Off-Track Garage Door Repair",
+        "shortDescription": "Expertly realign garage doors that have come off their tracks, ensuring safe and reliable operation.",
+        "description": "A garage door that has come off its tracks can be a dangerous and frustrating problem. It can be caused by a variety of factors, including a broken spring, a damaged cable, or an obstruction in the track. Richie Garage Door Repair Grandview specializes in safely and efficiently realigning garage doors that have come off their tracks. Our experienced technicians will carefully assess the situation, identify the cause of the problem, and take the necessary steps to get your door back on track. We use specialized tools and techniques to ensure that the door is properly aligned and that all components are functioning correctly. We also inspect the other parts of your garage door system to identify any potential problems before they become major issues. We can repair or replace damaged tracks, rollers, and hinges to ensure smooth and reliable operation. Never attempt to force a garage door back onto the tracks yourself, as this can cause serious damage or injury. We will also ensure the door is properly balanced after realignment, preventing future issues. We can advise on preventative maintenance to keep your door operating smoothly.",
+        "process": [
+          "Step 1: Assess the Situation. Determine the cause of the door coming off track.",
+          "Step 2: Disconnect Power. Ensure safety by disconnecting the power supply.",
+          "Step 3: Realign the Door. Carefully guide the door back onto the tracks.",
+          "Step 4: Inspect and Repair. Check for damage and repair or replace any faulty components.",
+          "Step 5: Test and Adjust. Verify proper alignment and smooth operation."
+        ],
+        "benefits": [
+          "Safe and reliable door realignment",
+          "Prevention of further damage to your garage door system",
+          "Restored functionality and security",
+          "Peace of mind knowing your door is operating safely"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my garage door comes off track?",
+            "answer": "Do not attempt to operate the door. Contact a professional garage door repair service immediately."
+          },
+          {
+            "question": "What causes a garage door to come off track?",
+            "answer": "Common causes include broken springs, damaged cables, obstructions in the track, or impact from a vehicle."
+          },
+          {
+            "question": "Can you repair a bent garage door track?",
+            "answer": "In some cases, we can repair a bent track. However, if the damage is severe, we may recommend replacing the track."
+          }
+        ]
+      },
+      {
+        "slug": "new-garage-door-installation",
+        "name": "New Garage Door Installation",
+        "shortDescription": "Professional installation of high-quality garage doors to enhance your home's curb appeal and security.",
+        "description": "Upgrading your garage door can dramatically improve your home's curb appeal, security, and energy efficiency. Richie Garage Door Repair Grandview offers professional garage door installation services throughout Kansas City. We work with all major brands and styles of garage doors, including steel, wood, aluminum, and composite. Our experienced technicians will help you choose the right door for your needs and budget, taking into account your home's architectural style, your desired level of insulation, and your personal preferences. We'll handle every aspect of the installation process, from removing your old door to installing the new one and connecting it to your existing opener. We ensure that your new garage door is properly aligned, balanced, and sealed to provide years of reliable performance. We also offer a wide range of accessories, such as keypads, remote controls, and window inserts, to customize your new garage door. We can help you select a door that complements your home's architectural style. We also ensure proper insulation to improve energy efficiency and reduce utility bills. We can also install smart garage door openers with smartphone connectivity. We can also dispose of your old garage door responsibly.",
+        "process": [
+          "Step 1: Consultation and Selection. Help you choose the right door based on style, budget, and needs.",
+          "Step 2: Removal of Old Door. Safely remove the existing garage door and hardware.",
+          "Step 3: Installation of New Door. Install the new garage door, tracks, springs, and opener.",
+          "Step 4: Testing and Adjustment. Verify proper operation and adjust settings as needed.",
+          "Step 5: Final Inspection. Ensure the door is functioning smoothly and safely."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved security and energy efficiency",
+          "Years of reliable performance"
+        ],
+        "faq": [
+          {
+            "question": "How much does a new garage door installation cost?",
+            "answer": "The cost varies depending on the type of door, the size of the opening, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "What type of garage door is best for my home?",
+            "answer": "The best type of garage door depends on your individual needs and preferences. We can help you choose the right door based on your budget, style, and desired level of insulation."
+          },
+          {
+            "question": "How long does it take to install a new garage door?",
+            "answer": "The installation process typically takes between 4 and 8 hours, depending on the complexity of the job."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is proud to serve the residents of Overland Park, Missouri. Known for its established suburban neighborhoods built primarily in the 1970s through the 1990s, Overland Park boasts a large number of homes with attached garages, making reliable garage door service essential. We understand the specific needs of Overland Park homeowners and offer a full range of garage door repair and installation services. \n\nOur experienced technicians are equipped to handle everything from broken springs and malfunctioning openers to complete garage door replacements. We know that Overland Park winters can bring ice storms and freezing temperatures, which can put extra stress on your garage door system, leading to unexpected problems. Richie Garage Door Repair Grandview is committed to providing prompt and reliable service to keep your garage door functioning smoothly, no matter the weather. We are also proud to provide services for new construction and remodeling projects.",
+        "localContext": "Overland Park is characterized by its well-maintained neighborhoods, excellent schools, and a strong sense of community. Many homes feature traditional garage door styles that require specialized knowledge for repair and maintenance.",
+        "nearbyAreas": [
+          "Leawood",
+          "Prairie Village",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview provides expert garage door services to the growing community of Olathe, Missouri. With its numerous family-friendly developments built from the 1980s through the 2000s, Olathe has a high demand for dependable garage door repair and maintenance. We understand the importance of a functioning garage door for busy families in Olathe, and we're committed to providing fast, reliable service. \n\nOur team is experienced in working with a wide variety of garage door styles and brands common in Olathe homes. We offer comprehensive services, including spring replacement, opener repair, cable repair, and new garage door installation. Given Olathe's cold winters and occasional ice storms, we also offer preventative maintenance services to help ensure your garage door operates reliably year-round.",
+        "localContext": "Olathe is a thriving suburban city known for its family-oriented atmosphere and newer residential developments. Many homes in Olathe feature modern garage door designs and advanced opener systems.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is dedicated to serving the residents of Lee's Summit, Missouri, with top-quality garage door repair and installation services. Lee's Summit, known for its established neighborhoods featuring many homes built in the 1970s through the 1990s, presents unique challenges and opportunities for garage door maintenance. We understand the specific needs of Lee's Summit homeowners and are committed to providing reliable and affordable solutions. \n\nOur technicians are skilled in repairing and replacing all types of garage doors and openers commonly found in Lee's Summit homes. We offer a full range of services, including spring replacement, cable repair, opener repair, and new garage door installation. Lee's Summit experiences cold winters with ice storms, and we are equipped to handle any weather-related garage door issues. Contact us today for fast, reliable service.",
+        "localContext": "Lee's Summit is a vibrant city with a mix of established neighborhoods and newer developments. Many homes feature traditional garage door styles, and residents value reliable and affordable service.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview proudly serves the diverse neighborhoods of Kansas City, Missouri. From historic homes to modern constructions, Kansas City presents a wide range of garage door needs. We are committed to providing prompt, reliable, and affordable garage door services throughout the Kansas City metropolitan area. We can handle any size job.\n\nOur experienced technicians are equipped to handle any garage door issue, from broken springs and malfunctioning openers to complete garage door replacements. We understand the unique challenges of older garage door systems and the latest technologies in new installations. Whether you live downtown or in the suburbs, Richie Garage Door Repair Grandview is your trusted source for garage door service in Kansas City.",
+        "localContext": "Kansas City is a major metropolitan area with a rich history and diverse architecture. Residents value quality workmanship and reliable service.",
+        "nearbyAreas": [
+          "Independence",
+          "Overland Park",
+          "Gladstone"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is proud to offer garage door repair and installation services to the residents of Independence, Missouri. As a city with a rich history and diverse housing stock, Independence presents unique challenges and opportunities for garage door maintenance. We are committed to providing reliable and affordable solutions to meet the needs of Independence homeowners.\n\nOur experienced technicians are equipped to handle a wide range of garage door issues, including broken springs, malfunctioning openers, and damaged panels. We understand the importance of a functioning garage door for the safety and security of your home. Whether you live in a historic neighborhood or a newer development, Richie Garage Door Repair Grandview is your trusted source for garage door service in Independence.",
+        "localContext": "Independence is a city with a strong sense of community and a mix of historic homes and newer developments. Residents value quality workmanship and reliable service.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is dedicated to providing top-notch garage door services to the residents of Blue Springs, Missouri. Blue Springs is known for its family-friendly atmosphere and growing residential areas, making reliable garage door service essential. We understand the importance of a functioning garage door for your home's security and convenience.\n\nOur team is experienced in working with a variety of garage door styles and brands commonly found in Blue Springs homes. We offer comprehensive services, including spring replacement, opener repair, cable repair, and new garage door installation. We are committed to providing fast, reliable, and affordable service to keep your garage door operating smoothly.",
+        "localContext": "Blue Springs is a growing suburban city with a strong sense of community. Many homes feature modern garage door designs and residents value reliable and affordable service.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Raytown",
+        "slug": "raytown-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is pleased to serve the community of Raytown, Missouri, with expert garage door repair and installation services. Raytown is a city with a mix of established neighborhoods and newer developments, creating a diverse range of garage door needs. We are committed to providing reliable and affordable solutions to meet the specific requirements of Raytown homeowners.\n\nOur experienced technicians are equipped to handle a wide range of garage door issues, from broken springs and malfunctioning openers to damaged panels and complete door replacements. We understand the importance of a properly functioning garage door for the safety and security of your home. Whether you live in an older neighborhood or a newer subdivision, Richie Garage Door Repair Grandview is your trusted source for garage door service in Raytown.",
+        "localContext": "Raytown is a city with a strong sense of community and a mix of housing styles. Residents value quality workmanship and reliable service at a fair price.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Independence",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Gladstone",
+        "slug": "gladstone-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview offers comprehensive garage door services to the residents of Gladstone, Missouri. Gladstone, known for its well-maintained homes and family-friendly environment, relies on reliable garage door maintenance. We provide prompt, professional, and affordable garage door solutions to ensure your home remains safe and secure.\n\nOur experienced technicians are skilled in repairing and replacing all types of garage doors and openers. We offer a full range of services, including spring replacement, cable repair, opener repair, and new garage door installation. We understand the importance of a properly functioning garage door for the convenience and security of your home and family.",
+        "localContext": "Gladstone is a suburb of Kansas City known for its strong community and well-kept homes. Residents appreciate reliable and affordable home repair services.",
+        "nearbyAreas": [
+          "Kansas City",
+          "North Kansas City",
+          "Liberty"
+        ]
+      },
+      {
+        "city": "Leawood",
+        "slug": "leawood-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is proud to serve the residents of Leawood, Missouri, with exceptional garage door repair and installation services. Leawood, a city known for its upscale homes and well-manicured lawns, expects only the highest quality of service. We are committed to providing prompt, professional, and reliable garage door solutions to meet the discerning needs of Leawood homeowners.\n\nOur experienced technicians are skilled in working with a wide range of garage door styles and brands commonly found in Leawood homes. We offer a full range of services, including spring replacement, cable repair, opener repair, and new garage door installation. We understand the importance of a properly functioning and aesthetically pleasing garage door for the curb appeal and security of your home.",
+        "localContext": "Leawood is an affluent suburb of Kansas City known for its beautiful homes and high standards of living. Residents value quality workmanship and exceptional service.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Prairie Village",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Prairie Village",
+        "slug": "prairie-village-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is committed to providing top-quality garage door services to the residents of Prairie Village, Missouri. Prairie Village, known for its charming homes and tree-lined streets, requires reliable garage door maintenance to preserve its neighborhood appeal. We offer prompt, professional, and affordable garage door solutions to ensure your home remains safe and functional.\n\nOur experienced technicians are skilled in repairing and replacing all types of garage doors and openers commonly found in Prairie Village homes. We provide a full range of services, including spring replacement, cable repair, opener repair, and new garage door installation. We understand the importance of a properly functioning and aesthetically pleasing garage door for the overall appearance of your home.",
+        "localContext": "Prairie Village is a charming suburb of Kansas City known for its well-maintained homes and strong sense of community. Residents value quality workmanship and reliable service.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Leawood",
+          "Mission"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Richie Garage Door Repair Grandview is dedicated to serving the community of Lenexa, Missouri, with expert garage door repair and installation services. Lenexa, a growing city with a mix of residential and commercial properties, presents a variety of garage door needs. We are committed to providing reliable and affordable solutions to meet the specific requirements of Lenexa homeowners and businesses.\n\nOur experienced technicians are equipped to handle a wide range of garage door issues, from broken springs and malfunctioning openers to damaged panels and complete door replacements. We understand the importance of a properly functioning garage door for the safety and security of your property. Whether you live in a residential neighborhood or operate a business in Lenexa, Richie Garage Door Repair Grandview is your trusted source for garage door service.",
+        "localContext": "Lenexa is a growing city in Johnson County with a mix of residential and commercial areas. Residents and business owners value quality workmanship and reliable service.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Our garage door spring snapped on a Saturday morning. I called Richie Garage Door Repair and they were at my house within an hour! The technician, Mike, was professional and replaced the spring quickly. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out. Richie's Garage Door Repair was able to come out the same day and fix the problem. The technician was knowledgeable and efficient.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Garage Door Panel Replacement",
+        "text": "A storm damaged one of the panels on my garage door. Richie Garage Door Repair was able to match the panel perfectly and replace it quickly. My garage door looks like new again!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Off-Track Garage Door Repair",
+        "text": "My garage door came off its tracks and I was worried it would fall. Richie's Garage Door Repair came out right away and got it back on track safely. I appreciate their quick response and professionalism.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Richie Garage Door Repair install a new garage door. The entire process was smooth and stress-free. The installers were professional and did a great job. We are very happy with our new door!",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 4,
+        "service": "Garage Door Cable Repair",
+        "text": "One of my garage door cables snapped. Richie's Garage Door Repair came out and replaced it quickly and efficiently. The technician explained everything clearly and gave me a fair price.",
+        "date": "2024-09-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Richie Garage Door Repair | Kansas City",
+        "description": "Grandview's trusted garage door repair. Expert service, fast response. Serving Kansas City, Overland Park, Olathe, Lee's Summit."
+      },
+      "about": {
+        "title": "About Richie Garage Door Repair",
+        "description": "Learn about Richie Garage Door Repair in Kansas City. Dedicated to quality service and customer satisfaction for over a decade."
+      },
+      "services": {
+        "title": "Garage Door Services | Kansas City",
+        "description": "Garage door repair, opener installation, spring replacement & more. Serving Grandview, Overland Park, Olathe, and Lee's Summit."
+      },
+      "contact": {
+        "title": "Contact Richie Garage Door Repair",
+        "description": "Contact Richie Garage Door Repair in Kansas City. Call +18164456728 for fast, reliable garage door service."
+      },
+      "reviews": {
+        "title": "Richie Garage Door Repair Reviews",
+        "description": "Read reviews for Richie Garage Door Repair in Kansas City. See why our customers trust us for all their garage door needs."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Garage door repair in Kansas City, Overland Park, Olathe, Lee's Summit. Fast, reliable service in your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "off-track-garage-door-repair": "/images/service-off-track-garage-door-repair.webp",
+      "new-garage-door-installation": "/images/service-new-garage-door-installation.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "off-track-garage-door-repair": {
+        "src": "/images/service-off-track-garage-door-repair.webp",
+        "srcset": "/images/service-off-track-garage-door-repair-400w.webp 400w, /images/service-off-track-garage-door-repair-800w.webp 800w, /images/service-off-track-garage-door-repair-1200w.webp 1200w, /images/service-off-track-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-garage-door-installation": {
+        "src": "/images/service-new-garage-door-installation.webp",
+        "srcset": "/images/service-new-garage-door-installation-400w.webp 400w, /images/service-new-garage-door-installation-800w.webp 800w, /images/service-new-garage-door-installation-1200w.webp 1200w, /images/service-new-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-richie-garage-door-repair-grandview.dream-surge.com/sitemap-index.xml
